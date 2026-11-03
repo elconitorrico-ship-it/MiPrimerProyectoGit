@@ -1,0 +1,3 @@
+Aprender Git
+Mejorar Java
+Trabajar en equipo
