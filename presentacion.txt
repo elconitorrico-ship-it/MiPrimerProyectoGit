@@ -1,3 +1,5 @@
 Nombre: cesar
 Ciclo: Desarrollo de Aplicaciones Multiplataforma
 Tecnologia que quiero aprender: Java
+Por que he elegido DAM o DAW:
+Quiero aprender a desarrollar aplicaciones.
